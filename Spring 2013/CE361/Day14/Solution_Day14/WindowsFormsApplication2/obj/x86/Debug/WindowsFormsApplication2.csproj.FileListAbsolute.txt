@@ -1,0 +1,11 @@
+C:\Courses\CompE361\Blackboard\Demos\Day14\Solution_Day14\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Courses\CompE361\Blackboard\Demos\Day14\Solution_Day14\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Courses\CompE361\Blackboard\Demos\Day14\Solution_Day14\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Courses\CompE361\Blackboard\Demos\Day14\Solution_Day14\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Courses\CompE361\Blackboard\Demos\Day14\Solution_Day14\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Courses\CompE361\Blackboard\Demos\Day14\Solution_Day14\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Courses\CompE361\Blackboard\Demos\Day14\Solution_Day14\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Courses\CompE361\Blackboard\Demos\Day14\Solution_Day14\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Courses\CompE361\Blackboard\Demos\Day14\Solution_Day14\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Trevor\Desktop\Classwork\CompE361\Day14\Solution_Day14\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Trevor\Desktop\Classwork\CompE361\Day14\Solution_Day14\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb

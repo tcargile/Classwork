@@ -1,0 +1,68 @@
+Trevor Cargile
+813542789
+
+Midterm Written Answers
+
+1. 	(a)	(i) Yes
+		(ii) Yes
+		(iii) No
+		(iv) No
+
+	(b)	No, there is no sink state. If there was, the b transition in state 0 would go
+		to a sink state and not to an empty state.
+
+	(c)	This FSA IS deterministic. State 3 is inaccessible therefore you can
+		remove that state entirely from the FSA. Since the rest of the states
+		only allow one path for each input, the FSA is considered deterministic. If
+		state 3 was accessible and not redundant, the FSA would be considered non-
+		deterministic because it allows the input (A) to go to either 0 or 2, which
+		restricts us from knowing the exact path an input string has.
+
+	(d)	First step: remove state 3 for being redundant
+		Second step: create sink state and route all unusued outputs to the sink state
+		Third step: swap final and not final states
+
+		State	Final	(a)	(b)
+		
+		0	N	1	sink
+		1	Y	1	2
+		2	Y	2	0
+		sink	Y	sink	sink
+
+
+2.	(a)	The upper language applies the rules to the input, so in this case apply up pumkin
+		applies the rule to pumkin, resulting in pumpkin. The lower language revokes the
+		rules that have been applied. For example, apply down pumpkin would result in pumkin
+		OR pumpkin because either the initial word was pumpkin, or it was pumkin and there was
+		a p inserted into the word.
+	
+		The difference between the two rules is that the first rule takes an empty string and
+		applies zero or more insertion between the rule on the right. The second rule only inserts
+		one between the two letters in the rule on the right.
+
+		Apply up pumkin results in both pumkin and pumpkin for the first rule, but for the second
+		rule it only outputs pumpkin. This is because the first rule can insert zero or more insertions,
+		but the second rule only inserts one. Apply down pumpkin results in both pumpkin and pumkin for
+		both rules because both words could apply to either rule.
+
+	(b)	The first machine SHOULD insert an infinite number of insertions because the epsilon transition
+		from the third state creates an epsilon loop:
+
+		s2: 0:p -> s2
+
+		This would allow the insertion of multiple p's in between an 'm' and a 'k'. There isn't an epsilon 
+		loop in the second rule though because only one p can be inserted.
+
+	(c)	The Xerox engineers have implemented a couple of checks to make sure you don't intentionally crash
+		your window. For the most part they have faithfully implemented finite state transducers according
+		to their definition, but in some cases they needed to implement checks for human error. Their FST
+		still recognizes, generates, translates, and computes relations as stated on pg. 57 in Jurafsky and
+		Martin.
+
+	
+3.	(a)	Cheapest state sequence: 0 -> 1 -> 2 -> 1 -> 3 -> 0
+		Total cost: 2 + 2 + 2 + 1 + 1 = 8
+
+		Trellis is picture titled "midtermtrellis" located in this midterm folder.
+
+	(b)

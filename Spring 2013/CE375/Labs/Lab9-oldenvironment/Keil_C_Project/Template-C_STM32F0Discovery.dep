@@ -1,0 +1,16 @@
+Dependencies for Project 'Template-C', Target 'STM32F0Discovery': (DO NOT MODIFY !)
+F (.\startup_stm32f0xx.s)(0x5126C627)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F0xx --list ".\ListingFiles\startup_stm32f0xx.lst" --xref -o ".\ObjectFiles\startup_stm32f0xx.o" --depend ".\ObjectFiles\startup_stm32f0xx.d")
+F (.\system_stm32f0xx.c)(0x5126C627)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F0xx -o ".\ObjectFiles\system_stm32f0xx.o" --omf_browse ".\ObjectFiles\system_stm32f0xx.crf" --depend ".\ObjectFiles\system_stm32f0xx.d")
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\stm32f0xx.h)(0x50883AB8)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x50883C7E)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x50FA5060)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x50883C7E)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x50883C7E)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\system_stm32f0xx.h)(0x50883AB8)
+F (.\main.c)(0x514BC6EC)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F0xx -o ".\ObjectFiles\main.o" --omf_browse ".\ObjectFiles\main.crf" --depend ".\ObjectFiles\main.d")
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\STM32F0xx.h)(0x50883AB8)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x50883C7E)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x50FA5060)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x50883C7E)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x50883C7E)
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\system_stm32f0xx.h)(0x50883AB8)

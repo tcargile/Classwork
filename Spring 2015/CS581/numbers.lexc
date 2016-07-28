@@ -1,0 +1,24 @@
+! Trevor Cargile
+! CS581 - Homework 3 part 2
+! 813542789
+
+Definitions
+		Dig = %0|1|2|3|4|5|6|7|8|9 ;
+		First = %2|3|4|5|6|7|8|9 ;
+		Restrict = %0|1|2|3 ;
+		REDID = [8]Dig^{8,8} ;			
+		Phone = [[First]Dig^{6,6}] | [[First]Dig^{2,2} %- Dig^{4,4}] ;
+		Combo = [Restrict]Dig %- [Restrict]Dig %- [Restrict]Dig ;
+
+! Reasonings for each:
+		! REDid's always start with 8 and then have 8 more digits afterwards.
+		! Local numbers must start with a digit between 2 - 9, the rest can be 0 - 9.
+			! You can't put spaces anywhere in the full phone number.
+		! Combination lock numbers can't exceed 40.
+			! There also needs to be 3 of them in order with a dash in between them.
+			! It won't be accepted if there is no - in between the three numbers.
+
+LEXICON Root
+< REDID %+RedID:0 >	#;
+< Phone %+LocalNumber:0 >	#;
+< Combo %+ComboLock:0 >		#;

@@ -1,0 +1,22 @@
+! Trevor Cargile
+! CS581 - Homework 3 part 1
+! 813542789
+
+Multichar_Symbols +1s +2s +3sMasc +2d
+
+LEXICON Root
+		Verb;
+
+LEXICON Verb
+talk:te		Ending;
+eat:naa		Ending;
+do:o		Ending;
+give:ame	Ending;
+hear:itaa	Ending;
+hit:ikamo	Ending;
+
+LEXICON Ending
++1s:%^une	#;
++2s:%^ne	#;
++3sMasc:%^iye	#;
++2d:%^kao	#;

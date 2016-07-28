@@ -1,0 +1,32 @@
+D:\Courses\CompE361\F10\Me\Progs\Prep\Day6\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Courses\CompE361\F10\Me\Progs\Prep\Day6\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+H:\Courses\CompE361\Me\Progs\Prep\Day6\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+H:\Courses\CompE361\Me\Progs\Prep\Day6\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+H:\Courses\CompE361\Me\Progs\Prep\Day6\Solution1_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+H:\Courses\CompE361\Me\Progs\Prep\Day6\Solution1_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+H:\Courses\CompE361\Me\Progs\Prep\Day6\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+H:\Courses\CompE361\Student ftp site\Progs\Demos\Day6\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+H:\Courses\CompE361\Student ftp site\Progs\Demos\Day6\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+H:\Courses\CompE361\Student ftp site\Progs\Demos\Day6\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+H:\Courses\CompE361\Student ftp site\Progs\Demos\Day6\Solution1_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+H:\Courses\CompE361\Student ftp site\Progs\Demos\Day6\Solution1_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+H:\Courses\CompE361\Student ftp site\Progs\Demos\Day6\Solution1_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Courses\CompE361\F10\Me\Progs\Prep\Day6\Solution1_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Courses\CompE361\F10\Me\Progs\Prep\Day6\Solution1_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Courses\CompE361\F10\Me\Progs\Prep\Day6\Solution1_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Courses\CompE361\F10\Me\Progs\Prep\Day6\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+H:\CompE361\Me\Progs\Prep\Day7\Solution1_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+H:\CompE361\Me\Progs\Prep\Day7\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+H:\CompE361\Me\Progs\Prep\Day7\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Courses\CompE361\F12\Me\Progs\Prep\Day8\Solution1_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Courses\CompE361\F12\Me\Progs\Prep\Day8\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Courses\CompE361\F12\Me\Progs\Prep\Day8\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Courses\CompE361\F12\Blackboard\Demos\Day8\Solution1_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Courses\CompE361\F12\Blackboard\Demos\Day8\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Courses\CompE361\F12\Blackboard\Demos\Day8\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Trevor\Desktop\Day9\Solution1_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Trevor\Desktop\Day9\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Trevor\Desktop\Day9\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Trevor\Desktop\Day9\Solution1_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Trevor\Desktop\Day9\Solution1_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Trevor\Desktop\Day9\Solution1_Exceptions\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache

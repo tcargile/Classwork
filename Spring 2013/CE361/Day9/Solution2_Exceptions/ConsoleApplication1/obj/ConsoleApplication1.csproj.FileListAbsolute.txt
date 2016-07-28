@@ -1,0 +1,10 @@
+C:\Courses\CompE361\F08\Students-ftpSite\Progs\Demos\Day10\Solution2_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Courses\CompE361\F08\Students-ftpSite\Progs\Demos\Day10\Solution2_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Courses\CompE361\F08\Students-ftpSite\Progs\Demos\Day10\Solution2_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Courses\CompE361\F08\Students-ftpSite\Progs\Demos\Day10\Solution2_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Courses\CompE361\F08\Students-ftpSite\Progs\Demos\Day10\Solution2_Exceptions\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\Courses\CompE361\F09\Students_ftpSite\Progs\Demos\Day9\Solution2_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Courses\CompE361\F09\Students_ftpSite\Progs\Demos\Day9\Solution2_Exceptions\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\Courses\CompE361\F09\Students_ftpSite\Progs\Demos\Day9\Solution2_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Courses\CompE361\F09\Students_ftpSite\Progs\Demos\Day9\Solution2_Exceptions\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Courses\CompE361\F09\Students_ftpSite\Progs\Demos\Day9\Solution2_Exceptions\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
