@@ -1,0 +1,17 @@
+C:\Users\Trevor\Desktop\Classwork\Fall 2012\CompE361\Labs_Cargile\Lab8_Cargile\Solution_lab8\bin\Debug\Solution_lab8.exe
+C:\Users\Trevor\Desktop\Classwork\Fall 2012\CompE361\Labs_Cargile\Lab8_Cargile\Solution_lab8\bin\Debug\Solution_lab8.pdb
+C:\Users\Trevor\Desktop\Classwork\Fall 2012\CompE361\Labs_Cargile\Lab8_Cargile\Solution_lab8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Trevor\Desktop\Classwork\Fall 2012\CompE361\Labs_Cargile\Lab8_Cargile\Solution_lab8\obj\x86\Debug\MainWindow.baml
+C:\Users\Trevor\Desktop\Classwork\Fall 2012\CompE361\Labs_Cargile\Lab8_Cargile\Solution_lab8\obj\x86\Debug\SetRowsColumns.baml
+C:\Users\Trevor\Desktop\Classwork\Fall 2012\CompE361\Labs_Cargile\Lab8_Cargile\Solution_lab8\obj\x86\Debug\WhoFirst.baml
+C:\Users\Trevor\Desktop\Classwork\Fall 2012\CompE361\Labs_Cargile\Lab8_Cargile\Solution_lab8\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Trevor\Desktop\Classwork\Fall 2012\CompE361\Labs_Cargile\Lab8_Cargile\Solution_lab8\obj\x86\Debug\SetRowsColumns.g.cs
+C:\Users\Trevor\Desktop\Classwork\Fall 2012\CompE361\Labs_Cargile\Lab8_Cargile\Solution_lab8\obj\x86\Debug\WhoFirst.g.cs
+C:\Users\Trevor\Desktop\Classwork\Fall 2012\CompE361\Labs_Cargile\Lab8_Cargile\Solution_lab8\obj\x86\Debug\App.g.cs
+C:\Users\Trevor\Desktop\Classwork\Fall 2012\CompE361\Labs_Cargile\Lab8_Cargile\Solution_lab8\obj\x86\Debug\Solution_lab8_MarkupCompile.cache
+C:\Users\Trevor\Desktop\Classwork\Fall 2012\CompE361\Labs_Cargile\Lab8_Cargile\Solution_lab8\obj\x86\Debug\Solution_lab8.g.resources
+C:\Users\Trevor\Desktop\Classwork\Fall 2012\CompE361\Labs_Cargile\Lab8_Cargile\Solution_lab8\obj\x86\Debug\Solution_lab8.Properties.Resources.resources
+C:\Users\Trevor\Desktop\Classwork\Fall 2012\CompE361\Labs_Cargile\Lab8_Cargile\Solution_lab8\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Trevor\Desktop\Classwork\Fall 2012\CompE361\Labs_Cargile\Lab8_Cargile\Solution_lab8\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Trevor\Desktop\Classwork\Fall 2012\CompE361\Labs_Cargile\Lab8_Cargile\Solution_lab8\obj\x86\Debug\Solution_lab8.exe
+C:\Users\Trevor\Desktop\Classwork\Fall 2012\CompE361\Labs_Cargile\Lab8_Cargile\Solution_lab8\obj\x86\Debug\Solution_lab8.pdb

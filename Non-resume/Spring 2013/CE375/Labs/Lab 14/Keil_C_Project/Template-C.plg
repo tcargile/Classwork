@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Tmp375\Template-C\Template-C.uvproj
+Project File Date:  08/27/2012
+
+<h2>Output:</h2>
+Rebuild target 'STM32F0Discovery'
+assembling startup_stm32f0xx.s...
+compiling system_stm32f0xx.c...
+compiling main.c...
+linking...
+Program Size: Code=1188 RO-data=224 RW-data=20 ZI-data=1636  
+".\ObjectFiles\Template-C.axf" - 0 Error(s), 0 Warning(s).
+Load "D:\\Tmp375\\Template-C\\ObjectFiles\\Template-C.AXF" 
+Load "D:\\Tmp375\\Template-C\\ObjectFiles\\Template-C.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.

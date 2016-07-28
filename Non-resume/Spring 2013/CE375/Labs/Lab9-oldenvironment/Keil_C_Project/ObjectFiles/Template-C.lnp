@@ -1,0 +1,5 @@
+--cpu Cortex-M0 ".\objectfiles\startup_stm32f0xx.o" ".\objectfiles\system_stm32f0xx.o" ".\objectfiles\main.o" 
+--strict --scatter ".\ObjectFiles\Template-C.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\ListingFiles\Template-C.map" -o .\ObjectFiles\Template-C.axf

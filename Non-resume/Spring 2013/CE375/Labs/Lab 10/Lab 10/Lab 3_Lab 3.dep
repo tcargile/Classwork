@@ -1,0 +1,6 @@
+Dependencies for Project 'Lab 3', Target 'Lab 3': (DO NOT MODIFY !)
+F (.\main.c)(0x50A49A9A)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F0xx -o "main.o" --omf_browse "main.crf" --depend "main.d")
+I (C:\Keil\ARM\Inc\ST\STM32F0xx\STM32F0xx.h)(0x4F5909EC)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x4F5F7CC6)
+F (.\startup_stm32f0xx.s)(0x4F5916BC)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F0xx --list "startup_stm32f0xx.lst" --xref -o "startup_stm32f0xx.o" --depend "startup_stm32f0xx.d")
+F (C:\Keil\ARM\Startup\ST\STM32F0xx\system_stm32f0xx.c)(0x50883AAC)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F0xx -o "system_stm32f0xx.o" --omf_browse "system_stm32f0xx.crf" --depend "system_stm32f0xx.d")
