@@ -1,5 +1,0 @@
---cpu Cortex-M0 ".\adc_lowpower\main.o" ".\adc_lowpower\stm32f0xx_it.o" ".\adc_lowpower\system_stm32f0xx.o" ".\adc_lowpower\stm32f0_discovery.o" ".\adc_lowpower\stm32f0xx_rcc.o" ".\adc_lowpower\stm32f0xx_misc.o" ".\adc_lowpower\stm32f0xx_gpio.o" ".\adc_lowpower\stm32f0xx_syscfg.o" ".\adc_lowpower\stm32f0xx_exti.o" ".\adc_lowpower\stm32f0xx_dma.o" ".\adc_lowpower\stm32f0xx_adc.o" ".\adc_lowpower\stm32f0xx_tim.o" ".\adc_lowpower\startup_stm32f0xx.o" 
---library_type=microlib --strict --scatter ".\ADC_LowPower\ADC_LowPower.sct" 
---summary_stderr --info summarysizes --map --xref --callgraph --symbols 
---info sizes --info totals --info unused --info veneers 
- --list ".\ADC_LowPower\ADC_LowPower.map" -o .\ADC_LowPower\ADC_LowPower.axf

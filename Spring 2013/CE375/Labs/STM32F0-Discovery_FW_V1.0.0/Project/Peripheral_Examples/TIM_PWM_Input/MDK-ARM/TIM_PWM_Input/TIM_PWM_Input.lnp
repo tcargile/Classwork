@@ -1,5 +1,0 @@
---cpu Cortex-M0 ".\tim_pwm_input\main.o" ".\tim_pwm_input\stm32f0xx_it.o" ".\tim_pwm_input\system_stm32f0xx.o" ".\tim_pwm_input\stm32f0_discovery.o" ".\tim_pwm_input\stm32f0xx_rcc.o" ".\tim_pwm_input\stm32f0xx_misc.o" ".\tim_pwm_input\stm32f0xx_gpio.o" ".\tim_pwm_input\stm32f0xx_syscfg.o" ".\tim_pwm_input\stm32f0xx_exti.o" ".\tim_pwm_input\stm32f0xx_tim.o" ".\tim_pwm_input\startup_stm32f0xx.o" 
---library_type=microlib --strict --scatter ".\TIM_PWM_Input\TIM_PWM_Input.sct" 
---summary_stderr --info summarysizes --map --xref --callgraph --symbols 
---info sizes --info totals --info unused --info veneers 
- --list ".\TIM_PWM_Input\TIM_PWM_Input.map" -o .\TIM_PWM_Input\TIM_PWM_Input.axf
