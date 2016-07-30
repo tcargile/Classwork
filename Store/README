@@ -1,6 +1,7 @@
 Data Structures Final Project
 
 Objective: Create a store-front system that applies various data structures to enable users to store and retrieve information.
+Restrictions: Can't use pre-built Java libraries for the Binary Search Tree.
 
 Language used: Java
-Data structures built: Binary Search Tree, Hashtable
+Data structures built: Binary Search Tree, Hashtable, Balanced Tree(used Java libraries).
