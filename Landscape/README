@@ -1,0 +1,9 @@
+Computer Graphics Group Final Project
+
+Objective: Use OpenGL to illustrate complex graphical concepts without the use of matrix libraries.
+
+Personal graphical concepts applied:
+- Glowing objects
+- Movement of an object along a Bezier curve
+
+Fully commented code provides insight into thought process.
