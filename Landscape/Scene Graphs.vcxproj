@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
       <Configuration>Debug</Configuration>
@@ -18,11 +18,11 @@
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
-    <PlatformToolset>v120</PlatformToolset>
+    <PlatformToolset>v140</PlatformToolset>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
-    <PlatformToolset>v120</PlatformToolset>
+    <PlatformToolset>v140</PlatformToolset>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
   <ImportGroup Label="ExtensionSettings">
@@ -84,34 +84,34 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="driver.h" />
-    <ClInclude Include="fairy.h" />
-    <ClInclude Include="Geode.h" />
-    <ClInclude Include="GLee.h" />
-    <ClInclude Include="Group.h" />
-    <ClInclude Include="MatrixTransform.h" />
-    <ClInclude Include="Node.h" />
-    <ClInclude Include="Building.h" />
-    <ClInclude Include="shader.h" />
-    <ClInclude Include="Square.h" />
-    <ClInclude Include="Vector4.h" />
-    <ClInclude Include="Matrix4.h" />
-    <ClInclude Include="Vector3.h" />
+    <ClInclude Include="Driver\driver.h" />
+    <ClInclude Include="Fairy\fairy.h" />
+    <ClInclude Include="GLee\GLee.h" />
+    <ClInclude Include="Matrix\Matrix4.h" />
+    <ClInclude Include="Matrix\MatrixTransform.h" />
+    <ClInclude Include="Matrix\Vector3.h" />
+    <ClInclude Include="Matrix\Vector4.h" />
+    <ClInclude Include="Objects\Geode.h" />
+    <ClInclude Include="Objects\Group.h" />
+    <ClInclude Include="Objects\Node.h" />
+    <ClInclude Include="Objects\Square.h" />
+    <ClInclude Include="Shading\shader.h" />
+    <ClInclude Include="Tower\Building.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="driver.cpp" />
-    <ClCompile Include="fairy.cpp" />
-    <ClCompile Include="Geode.cpp" />
-    <ClCompile Include="GLee.c" />
-    <ClCompile Include="Group.cpp" />
-    <ClCompile Include="MatrixTransform.cpp" />
-    <ClCompile Include="Node.cpp" />
-    <ClCompile Include="Building.cpp" />
-    <ClCompile Include="shader.cpp" />
-    <ClCompile Include="Square.cpp" />
-    <ClCompile Include="Vector4.cpp" />
-    <ClCompile Include="Matrix4.cpp" />
-    <ClCompile Include="Vector3.cpp" />
+    <ClCompile Include="Driver\driver.cpp" />
+    <ClCompile Include="Fairy\fairy.cpp" />
+    <ClCompile Include="GLee\GLee.c" />
+    <ClCompile Include="Matrix\Matrix4.cpp" />
+    <ClCompile Include="Matrix\MatrixTransform.cpp" />
+    <ClCompile Include="Matrix\Vector3.cpp" />
+    <ClCompile Include="Matrix\Vector4.cpp" />
+    <ClCompile Include="Objects\Geode.cpp" />
+    <ClCompile Include="Objects\Group.cpp" />
+    <ClCompile Include="Objects\Node.cpp" />
+    <ClCompile Include="Objects\Square.cpp" />
+    <ClCompile Include="Shading\shader.cpp" />
+    <ClCompile Include="Tower\Building.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

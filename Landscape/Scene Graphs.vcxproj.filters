@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Driver\driver.cpp">
+      <Filter>Driver</Filter>
+    </ClCompile>
+    <ClCompile Include="GLee\GLee.c">
+      <Filter>GLee</Filter>
+    </ClCompile>
+    <ClCompile Include="Tower\Building.cpp">
+      <Filter>Tower</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix\Matrix4.cpp">
+      <Filter>Matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix\MatrixTransform.cpp">
+      <Filter>Matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix\Vector3.cpp">
+      <Filter>Matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix\Vector4.cpp">
+      <Filter>Matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\Geode.cpp">
+      <Filter>Heirarchy</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\Group.cpp">
+      <Filter>Heirarchy</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\Node.cpp">
+      <Filter>Heirarchy</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\Square.cpp">
+      <Filter>Heirarchy</Filter>
+    </ClCompile>
+    <ClCompile Include="Fairy\fairy.cpp">
+      <Filter>Fairy</Filter>
+    </ClCompile>
+    <ClCompile Include="Shading\shader.cpp">
+      <Filter>Shading</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Driver\driver.h">
+      <Filter>Driver</Filter>
+    </ClInclude>
+    <ClInclude Include="GLee\GLee.h">
+      <Filter>GLee</Filter>
+    </ClInclude>
+    <ClInclude Include="Tower\Building.h">
+      <Filter>Tower</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix\Matrix4.h">
+      <Filter>Matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix\MatrixTransform.h">
+      <Filter>Matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix\Vector3.h">
+      <Filter>Matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix\Vector4.h">
+      <Filter>Matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\Geode.h">
+      <Filter>Heirarchy</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\Group.h">
+      <Filter>Heirarchy</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\Node.h">
+      <Filter>Heirarchy</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\Square.h">
+      <Filter>Heirarchy</Filter>
+    </ClInclude>
+    <ClInclude Include="Fairy\fairy.h">
+      <Filter>Fairy</Filter>
+    </ClInclude>
+    <ClInclude Include="Shading\shader.h">
+      <Filter>Shading</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Matrix">
+      <UniqueIdentifier>{35c5fc8d-e259-4cea-9af8-c3e48b0eb3d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shading">
+      <UniqueIdentifier>{1a567ffb-293e-45e9-9d62-a7ae0d30939b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Heirarchy">
+      <UniqueIdentifier>{d14fd769-387d-411d-9544-3aadd854afa1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fairy">
+      <UniqueIdentifier>{caffe807-9824-458d-b8da-76a309be8597}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Driver">
+      <UniqueIdentifier>{8244d752-17d7-45b1-8969-ac28b1d6e676}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GLee">
+      <UniqueIdentifier>{23702cf3-01d4-4b41-bfd0-6b5ac9d62103}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tower">
+      <UniqueIdentifier>{94148f1b-5c22-4863-9f9a-c0bed76df080}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
