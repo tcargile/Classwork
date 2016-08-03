@@ -1,9 +1,0 @@
-﻿  Building.cpp
-  Geode.cpp
-d:\program files\git\classwork\landscape\objects\geode.cpp(7): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
-  MatrixTransform.cpp
-  fairy.cpp
-d:\program files\git\classwork\landscape\fairy\fairy.cpp(9): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
-  driver.cpp
-d:\program files\git\classwork\landscape\driver\driver.cpp(10): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
-  Generating Code...
